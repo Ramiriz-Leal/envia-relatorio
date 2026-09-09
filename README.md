@@ -1,13 +1,15 @@
-# Envia Relatório E-mail
-Projeto para envio de e-mails em python com base em Selects no banco de dados
+# Send Report by Email
 
-## Como funciona
-Ambos tem a mesma funcionalidade de enviar os resultados de comandos no e-mail, relatorios basicamente.
+Python project that emails the results of database queries
 
-Podendo um ser enviado em excel ou como planilha quando existem muitos dados no mesmo select
-Já a outra com coisas mais curtas para não pesar a visualização dentro do e-mail, como por exemplo usuarios sem o email no campo do usuario, ou usuarios ativos, acompanhamento de alterçaões indevidas no sistema, etc...
+## How it works
 
-## Autores
+Both scripts do the same thing, sending query results by email, basically reports.
+
+One of them can send the data as an Excel attachment, useful when a query returns a lot of rows. The other one is for shorter results, so the email stays easy to read, for example users without an email address in the user field, active users, or tracking unexpected changes in the system.
+
+## Author
+
 - [GitHub](https://github.com/Ramiriz-Leal?tab=repositories)
 - [Linkedin](https://www.linkedin.com/in/ramiriz-leal/)
 - [Instagram](https://instagram.com/ramiriz.js?igshid=MjEwN2IyYWYwYw==)
